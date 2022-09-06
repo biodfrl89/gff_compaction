@@ -12,6 +12,6 @@ gff_compaction.R [options]
 
 | Options | Description |
 | --- | --- |
-| -f --file | GFF file as obtained by blast6_to_gff.py |
+| -f --file | GFF file |
 | -s --source | Method used to obtain the GFF file |
 | -h --help | Show this help message and exit |

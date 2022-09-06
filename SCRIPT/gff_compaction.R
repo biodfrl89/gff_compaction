@@ -9,7 +9,7 @@ library("optparse")
 opt_list = list(make_option(opt_str = c("-f", "--file"), 
                             type = "character", 
                             default = NULL, 
-                            help = "GFF file as obtained by blast6_to_gff.py", 
+                            help = "GFF file", 
                             metavar = "[FILENAME]"),
                 make_option(opt_str = c("-s", "--source"),
                             type = "character", 
